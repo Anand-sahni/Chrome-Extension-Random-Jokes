@@ -1,0 +1,10 @@
+{
+    "name": "Meme Generator 69",
+    "description": "Memes from the dank reddit community for dank chads.",
+    "version": "0.0.69",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "meme.html",
+        "default_icon": "icon_1.png"
+    }
+}
